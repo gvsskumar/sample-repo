@@ -1,7 +1,3 @@
 This is Sample Document 
 sdjfhkdsfxvdv
-<<<<<<< .merge_file_fA4y4S
 This code put it through venkata branch
-=======
-Welcome to Satya
->>>>>>> .merge_file_SRroxM
